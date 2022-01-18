@@ -1,0 +1,1 @@
+# Project Rest [![Build status](https://ci.appveyor.com/api/projects/status/cw19a4ewlo4e7u2f?svg=true)](https://ci.appveyor.com/project/droidAps/hw-rest)
